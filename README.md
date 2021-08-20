@@ -5,3 +5,4 @@ I'm passionate about web technologies and videogames specially ARPGs or RPGs. I'
 🧠 Autodidact, team work & flexibility  
 💻 Tech stack: HTML, CSS, PHP, MySQL, MSSQL, JavaScript, VueJS, Angular, Bootstrap, Laravel, AdonisJS  
 🎯 Next to learn: React & MongoDB  
+:zap: Fun fact: I have a siamese cat named 'cookie'
